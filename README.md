@@ -7,4 +7,7 @@ thelma
 Shalem
 david
 brenda
+<<<<<<< HEAD
 Hector
+=======
+>>>>>>> master
