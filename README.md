@@ -1,7 +1,6 @@
 charles
-NoemiH
 daniel
-daniel
-Jorge ( ͡° ͜ʖ ͡°)
 Rurick
 david
+Jorge ( ͡° ͜ʖ ͡°)
+NoemiH
